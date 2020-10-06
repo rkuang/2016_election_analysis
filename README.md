@@ -1,5 +1,7 @@
 # 2016 Election Analysis
 
+[See report](/2016-election-handout.html)
+
 ## Background
 
 The presidential election in 2012 did not come as a surprise. Some correctly predicted the outcome of the election correctly including [Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver), and [many speculated his approach](https://www.theguardian.com/science/grrlscientist/2012/nov/08/nate-sliver-predict-us-election).
