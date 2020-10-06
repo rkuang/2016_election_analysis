@@ -1,6 +1,6 @@
 ---
 title: "2016 Election Prediction"
-author: "Your Name (PSTAT 131/231)"
+author: "Ricky Kuang (PSTAT 131/231)"
 date: "3/12/2018"
 output:
   html_document: default
@@ -691,4 +691,3 @@ pca.records
 # worst. It seems to imply that when doing logistic regression, we need more
 # information to build a better model.
 ```
-  
